@@ -1,2 +1,7 @@
-numpy>=1.14.5
-pandas>=1.3.5
+numpy
+pandas
+scikit-learn
+ipywidgets
+pickle
+jupyterlab
+voila
